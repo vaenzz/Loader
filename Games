@@ -4,7 +4,7 @@ if placeId == 125003919504672 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/vaenzz/Scripts/refs/heads/main/My%20Knife%20Farm"))()
 
 elseif placeId == 92416421522960 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/vaenzz/Scripts/refs/heads/main/Slime%20RNG))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/vaenzz/Scripts/refs/heads/main/Slime%20RNG"))()
 
 else
     game.Players.LocalPlayer:Kick("VaenHub game not supported")
