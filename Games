@@ -1,7 +1,7 @@
 local placeId = game.PlaceId
 
-if placeId == 125003919504672 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/vaenzz/Scripts/refs/heads/main/My%20Knife%20Farm"))()
+if placeId == 89469502395769 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/vaenzz/Scripts/refs/heads/main/Kick%20a%20Lucky%20Block"))()
 
 elseif placeId == 92416421522960 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/vaenzz/Scripts/refs/heads/main/Slime%20RNG"))()
