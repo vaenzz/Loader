@@ -3,9 +3,9 @@ local placeId = game.PlaceId
 if placeId == 125003919504672 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/vaenzz/Scripts/refs/heads/main/My%20Knife%20Farm"))()
 
---[[elseif placeId == 5678910 then
-    loadstring(game:HttpGet("LINK_DO_SKRYPTU_2"))() --]]
+elseif placeId == 92416421522960 then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/vaenzz/Scripts/refs/heads/main/Slime%20RNG))()
 
 else
-    game.Players.LocalPlayer:Kick("VaenzzHub game not supported")
+    game.Players.LocalPlayer:Kick("VaenHub game not supported")
 end
