@@ -5,6 +5,8 @@ if placeId == 89469502395769 then
 
 elseif placeId == 92416421522960 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/vaenzz/Scripts/refs/heads/main/Slime%20RNG"))()
+elseif placeId == 131346454575416 then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/vaenzz/Scripts/refs/heads/main/Mini%20War"))()
 
 else
     game.Players.LocalPlayer:Kick("VaenHub game not supported")
