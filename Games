@@ -11,6 +11,8 @@ elseif placeId == 123610837430013 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/vaenzz/Scripts/refs/heads/main/Click%20for%20Brainrots!"))()
 elseif placeId == 75467339082089 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/vaenzz/Scripts/refs/heads/main/Aura"))()
+elseif placeId == 95082159892680 then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/vaenzz/Scripts/refs/heads/main/%2B1%20Speed%20Keyboard%20Escape"))()
 
 else
     game.Players.LocalPlayer:Kick("VaenHub game not supported")
