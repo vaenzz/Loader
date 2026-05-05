@@ -9,6 +9,8 @@ elseif placeId == 131346454575416 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/vaenzz/Scripts/refs/heads/main/Mini%20War"))()
 elseif placeId == 123610837430013 then
         loadstring(game:HttpGet("https://raw.githubusercontent.com/vaenzz/Scripts/refs/heads/main/Click%20for%20Brainrots!"))()
+elseif placeId == 75467339082089 then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/vaenzz/Scripts/refs/heads/main/Aura"))()
 
 else
     game.Players.LocalPlayer:Kick("VaenHub game not supported")
